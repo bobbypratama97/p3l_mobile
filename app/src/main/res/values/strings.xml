@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Grand Atma Hotels</string>
+    <string name="input">Input</string>
+    <string name="clear">CLEAR</string>
+    <string name="submit">SUBMIT</string>
+    <string name="title">Sign Up Form</string>
+    <string name="hint_value">What will you do ? (Default)</string>
+    <string name="hint_value_material">What will you do ? (Material)</string>
+    <string name="option_b">Option B</string>
+    <string name="option_a">Option A</string>
+
+    <string name="signuptext1">First Name</string>
+    <string name="signuptext2">Last Name</string>
+    <string name="signuptext3">Institution Name</string>
+    <string name="signuptext4">Identity Number</string>
+    <string name="signuptext5">Phone Number</string>
+    <string name="signuptext6">Email Address</string>
+    <string name="signuptext7">Address</string>
+    <string name="signuptext8">Username</string>
+    <string name="signuptext9">Password</string>
+    <string name="signuptext10">IdUser</string>
+    <string name="signuptext11">IdType</string>
+    <string name="signuptext12">IdRole</string>
+
+    <string name="bataltext1">Pembatalan Reservasi</string>
+    <string name="bataltext2">id booking</string>
+    <string name="bataltext3">search</string>
+    <string name="bataltext4">Cancel Reservation!</string>
+    <string name="bataltext5">Home</string>
+
+    <string name="maintext1">username</string>
+    <string name="maintext2">password</string>
+    <string name="maintext3">sign in</string>
+    <string name="maintext4">Dont have an account? Sign up here!</string>
+
+    <string name="hometext1">Sign Out</string>
+    <string name="hometext2">Check Room Availability</string>
+    <string name="hometext3">View Season</string>
+    <string name="hometext4">Cancel Reservation</string>
+    <string name="hometext5">View Reservation Reciept</string>
+    <string name="hometext6">View Reservation History</string>
+    <string name="hometext7">View FAQ</string>
+    <string name="hometext8">View Facility</string>
+    <string name="hometext9">Edit Profile</string>
+    <string name="hometext10">Gallery</string>
+    <string name="hometext11">About</string>
+    <string name="hometext12">Contact</string>
+
+    <string name="gmtext1">Report Pelanggan Baru</string>
+    <string name="gmtext2">Report 5 Pelanggan</string>
+
+    <string name="edittext1">Edit Profile</string>
+    <string name="edittext2">Confirm Password</string>
+    <string name="edittext3">Home</string>
+    <string name="edittext4">Update!</string>
+
+    <string name="showtext1">Check Available Room</string>
+    <string name="showtext2">Check In Date</string>
+    <string name="showtext3">Check Out Date</string>
+    <string name="showtext4">City</string>
+    <string name="showtext5">Check</string>
+
+
+    <string name="lihatTT1">Lihat Tanda Terima</string>
+    <string name="lihatTT2">Id Reservation</string>
+
+    <string name="historytext1">Lihat History Reservasi</string>
+
+    <string name="reporttext1">Report Jumlah Pelanggan Baru</string>
+    <string name="reporttext2">Report 5 Tamu Pesanan Terbanyak</string>
+    <string name="reporttext3">Bulan</string>
+    <string name="reporttext4">Tahun</string>
+    <string name="reporttext5">Show</string>
+
+    <string name="abouttext1">ABOUT US</string>
+    <string name="abouttext2">
+        Grand Atma Hotels merupakan hotel bintang 3 yang terdapat di Kota Yogyakarta dan Bandung. Di Kota Yogyakarta,
+        terletak di jantung Jalan Malioboro yang ramai dan dekat dengan ikon Tugu. Menyediakan akses mudah ke pasar tradisional
+        Beringharjo, Jalan Malioboro, dan Stasiun Kereta Api Tugu. Di kota Bandung, terletak di pusat kota, dan menawarkan
+        akses mudah ke beberapa tempat wisata seperti pusat perbelanjaan dan tempat hiburan utama. Para tamu dapat mencapai bandara
+        dan stasiun kereta api dalam waktu 10 menit.\n\n
+
+        Grand Atma Hotels memiliki 125 kamar yang didesain dengan cantik. Kamar dilengkapi televisi LCD dengan TV kabel, akses
+        internet WiFi gratis, AC, telepon, rak pakaian, kopi instan gratis, dan teh gratis. Hotel ini dilengkapi restoran, kolam renang,
+        pijat/spa, dan bar/lounge. Fasilitas lain mencakup minibar dan laundry. Grand Atma Hotels adalah tempat penginapan ideal bagi
+        para turis dan bisnis yang mencari daya tarik, kenyamanan, dan kepraktisan.
+
+    </string>
+
+    <string name="seasontext1"> : </string>
+    <string name="seasontext2"> Id Season </string>
+    <string name="seasontext3"> Id Price </string>
+    <string name="seasontext4"> Season Name </string>
+    <string name="seasontext5"> Start Date </string>
+    <string name="seasontext6"> End Date </string>
+    <string name="seasontext7"> Detail </string>
+    <string name="seasontext8"> SEASON </string>
+
+    <string name="faqtext1">F.A.Q</string>
+    <string name="faqtext2"> : </string>
+    <string name="faqtext3"> Id Faq </string>
+    <string name="faqtext4"> Question </string>
+    <string name="faqtext5"> Answer </string>
+
+    <string name="reportAtext1"> Bulan </string>
+    <string name="reportAtext2"> : </string>
+    <string name="reportAtext3"> Jumlah Pelanggan baru </string>
+
+    <string name="reportBText1"> Nama </string>
+    <string name="reportBtext2"> Jumlah Reservasi </string>\
+    <string name="reportBtext3"> Total Pembayaran </string>
+
+    <string name="contacttext1">
+        GRAND ATMA HOTELS - BANDUNG
+        Jl. Peta 241, Pasir Koja, Suka Asih, Bojongloa Kaler, Bandung City, West Java 40231.
+        (022) 6128655\n\n
+
+        GRAND ATMA HOTELS - YOGYAKARTA
+        Jl. P. Mangkubumi No.18, Yogyakarta 55233.
+        (0274) 487711
+
+    </string>
+
+    <string name="historytext2"> Id Booking </string>
+    <string name="historytext3"> Reservation Date </string>
+    <string name="historytext4"> Reservation Status </string>
+    <string name="historytext5"> Check In Date </string>
+    <string name="historytext6"> Check Out Date </string>
+
+
+
+</resources>

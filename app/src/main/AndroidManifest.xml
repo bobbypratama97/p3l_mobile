@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.grandatmahotelsv2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".signup" />
+        <activity android:name=".pembatalanReservasi" />
+        <activity android:name=".homepageGM" />
+        <activity android:name=".editprofile" />
+        <activity android:name=".showjeniskamar1" />
+        <activity android:name=".showjeniskamar2" />
+        <activity android:name=".viewFAQ" />
+        <activity android:name=".lihattandaterima1" />
+        <activity android:name=".lihathistoryreservasi" />
+        <activity android:name=".reportPelangganBaru" />
+        <activity android:name=".reportPesananTerbanyak" />
+        <activity android:name=".ViewAbout" />
+        <activity android:name=".ViewSeason" />
+        <activity android:name=".ViewContact" />
+        <activity android:name=".ViewGallery"></activity>
+    </application>
+
+</manifest>
